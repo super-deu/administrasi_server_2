@@ -1,0 +1,4 @@
+﻿origin	https://github.com/super-deu/administrasi_server_2.git (fetch)
+origin	https://github.com/super-deu/administrasi_server_2.git (push)
+upstream	https://github.com/super-deu/administrasi_server_2.git (fetch)
+upstream	https://github.com/super-deu/administrasi_server_2.git (push)
