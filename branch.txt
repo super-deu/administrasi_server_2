@@ -1,3 +1,0 @@
-﻿* (HEAD detached at 766adc0)
-  main
-  remotes/origin/main
